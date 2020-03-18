@@ -6,10 +6,14 @@ Please know that these resources are limited but every little big counts. If you
 
 Efforts can include bioinformatics, medical imaging research, NLP, drug discovery. 
 
-## Asia
+## Software
+* CDCD Repository of sequencing resources for SARS-CoV-2 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
-## Europe
+## Compute Resources
+### Asia
 
-## North America
+### Europe
 
-## Latin America
+### North America
+
+### Latin America
