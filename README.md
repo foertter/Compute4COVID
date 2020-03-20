@@ -10,10 +10,21 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 * CDCD Repository of sequencing resources for SARS-CoV-2 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
 ## Compute Resources
-### Asia
+### Cloud
+Azure
+Google Cloud
+ReScale
+TGen
+Oracle Cloud
+Core Scientific
+JetStream
 
-### Europe
+### HPC Centers
+NERSC
+EPCCed
+Pawsey - Australian efforts focus
+LNCC - Latin American efforts focus
 
-### North America
+### People Expertise
+BioTeam
 
-### Latin America
