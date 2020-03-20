@@ -23,7 +23,7 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 * TGen
 * Oracle Cloud
 * Core Scientific
-* [Terra] (https://support.terra.bio/hc/en-us/articles/360041068771) " Terra team and our scientific collaborators are working quickly to make data and tools for COVID-19 analysis available in Terra as quickly as possible. We will maintain this article in the support center as a landing page for COVID-19-related public workspaces as well as the educational materials to help you learn how to use them"
+* [Terra](https://support.terra.bio/hc/en-us/articles/360041068771) " Terra team and our scientific collaborators are working quickly to make data and tools for COVID-19 analysis available in Terra as quickly as possible. We will maintain this article in the support center as a landing page for COVID-19-related public workspaces as well as the educational materials to help you learn how to use them"
 
 ### HPC Centers
 * NERSC
@@ -36,9 +36,7 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 
 CyVerse provides cyberinfrastructure tools and services for _free_ to researchers in the USA, there are some limitations on international users. Our extensible data science workbenches and data store can integrate and run your bioinformatics tools, image analyses, cloud services, APIs, and more. Resources are managed at University of Arizona and the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/), and Cold Spring Harbor Laboratory. Infrastructures are linked to the [NSF XSEDE](https://www.xsede.org/) framework, as well as the [OpenScienceGrid](https://opensciencegrid.org/) over Internet2.
 
-#### [Jetstream Cloud] (https://www.jetstream-cloud.org)
-
-#### Jetstream Cloud 
+#### [Jetstream Cloud](https://www.jetstream-cloud.org)
 - a National Science Foundation research and education cloud resource - 
 - **free allocations for PIs at US-based research institutions**. Allocated via XSEDE.
 - Questions/support: *help@xsede.org*
