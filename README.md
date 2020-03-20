@@ -30,6 +30,7 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 * EPCCed
 * Pawsey - Australian efforts focus
 * LNCC - Latin American efforts focus
+* [HLRS](https://www.hlrs.de/news/detail-view/2020-03-16/) "Effective immediately, scientists working on COVID-19 research are eligible for expedited access to computing resources at the High-Performance Computing Center Stuttgart (HLRS). HLRS encourages scientists in need of high-performance computing resources to contact us." 
 
 ### Academic Services
 #### [CyVerse](https://cyverse.org)
