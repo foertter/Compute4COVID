@@ -10,22 +10,22 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 * CDCD Repository of sequencing resources for SARS-CoV-2 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
 ## People Expertise
-BioTeam
+* BioTeam
 
 ## Compute Resources
 ### Cloud
-Azure
-Google Cloud
-ReScale
-TGen
-Oracle Cloud
-Core Scientific
+* Azure
+* Google Cloud
+* ReScale
+* TGen
+* Oracle Cloud
+* Core Scientific
 
 ### HPC Centers
-NERSC
-EPCCed
-Pawsey - Australian efforts focus
-LNCC - Latin American efforts focus
+* NERSC
+* EPCCed
+* Pawsey - Australian efforts focus
+* LNCC - Latin American efforts focus
 
 ### Academic Services
 #### [CyVerse](https://cyverse.org)
@@ -39,7 +39,9 @@ CyVerse is funded by the National Science Foundation’s Directorate for Biologi
 - [Forms](https://user.cyverse.org/forms) for additional data storage, computational expertise, and extended resource assistance.
 - [Educational Resources](https://learning.cyverse.org/en/latest/)
 
-#### Jetstream Cloud - a National Science Foundation research and education cloud resource - **free allocations for PIs at US-based research institutions**. Allocated via XSEDE.
-Questions/support: *help@xsede.org*
-Documentation: *wiki.jetstream-cloud.org*
-Allocation instructions: http://wiki.jetstream-cloud.org/Jetstream+Allocations
+#### Jetstream Cloud 
+- a National Science Foundation research and education cloud resource - 
+- **free allocations for PIs at US-based research institutions**. Allocated via XSEDE.
+- Questions/support: *help@xsede.org*
+- Documentation: *wiki.jetstream-cloud.org*
+- Allocation instructions: http://wiki.jetstream-cloud.org/Jetstream+Allocations
