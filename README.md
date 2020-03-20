@@ -15,9 +15,12 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 ### Europe
 
 ### North America
-* Jetstream Cloud - a National Science Foundation research and education cloud resource - **free allocations for PIs at US-based research institutions**. Allocated via XSEDE.
-Questions/support: *help@xsede.org*
-Documentation: *wiki.jetstream-cloud.org*
-Allocation instructions: http://wiki.jetstream-cloud.org/Jetstream+Allocations
+* [Jetstream Cloud] (https://www.jetstream-cloud.org)
+  * a National Science Foundation research and education cloud resource
+  * **free allocations for PIs at US-based research institutions**.
+  * Allocated via XSEDE.
+    * Questions/support: *help@xsede.org*
+    * Documentation: *wiki.jetstream-cloud.org*
+    * Allocation instructions: http://wiki.jetstream-cloud.org/Jetstream+Allocations
 
 ### Latin America
