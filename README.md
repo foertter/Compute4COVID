@@ -9,23 +9,27 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 ## Software
 * CDCD Repository of sequencing resources for SARS-CoV-2 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
+## Data
+* [Globus](https://www.globus.org/covid-19) - Effective immediately we are offering access to all Globus features at no cost to any institution engaged in COVID-19 research.
+
 ## People Expertise
-BioTeam
+* [BioTeam](mailto:coronavirus@bioteam.net) - Any researchers struggling with issues related to strategic solutions development, high-speed data movement, HPC, data optimization, cloud computing, optimizing workflows and pipelines, data visualization, or complex data management with respect to COVID-19 research, please contact BioTeam for more information at coronavirus@bioteam.net. 
 
 ## Compute Resources
 ### Cloud
-Azure
-Google Cloud
-ReScale
-TGen
-Oracle Cloud
-Core Scientific
+* Azure
+* Google Cloud
+* ReScale
+* TGen
+* Oracle Cloud
+* Core Scientific
+* [Terra] (https://support.terra.bio/hc/en-us/articles/360041068771) " Terra team and our scientific collaborators are working quickly to make data and tools for COVID-19 analysis available in Terra as quickly as possible. We will maintain this article in the support center as a landing page for COVID-19-related public workspaces as well as the educational materials to help you learn how to use them"
 
 ### HPC Centers
-NERSC
-EPCCed
-Pawsey - Australian efforts focus
-LNCC - Latin American efforts focus
+* NERSC
+* EPCCed
+* Pawsey - Australian efforts focus
+* LNCC - Latin American efforts focus
 
 ### Academic Services
 #### [CyVerse](https://cyverse.org)
@@ -34,13 +38,9 @@ CyVerse provides cyberinfrastructure tools and services for _free_ to researcher
 
 #### [Jetstream Cloud] (https://www.jetstream-cloud.org)
 
-Jetstream is a National Science Foundation research and education cloud resource that provides **free allocations for PIs at US-based research institutions**. Both simple VM launch capabilities via the Atmosphere GUI interface and API interfaces are available. Resources are available for all US-based researchers regardless of funding organization (or lack thereof).
-  * Allocated via XSEDE.
-    * Questions/support: *help@xsede.org*
-    * Documentation: *wiki.jetstream-cloud.org*
-    * Allocation instructions: http://wiki.jetstream-cloud.org/Jetstream+Allocations
-
-### North America
-
-
-### Latin America
+#### Jetstream Cloud 
+- a National Science Foundation research and education cloud resource - 
+- **free allocations for PIs at US-based research institutions**. Allocated via XSEDE.
+- Questions/support: *help@xsede.org*
+- Documentation: *wiki.jetstream-cloud.org*
+- Allocation instructions: http://wiki.jetstream-cloud.org/Jetstream+Allocations
