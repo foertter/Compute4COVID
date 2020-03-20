@@ -10,12 +10,25 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 * CDCD Repository of sequencing resources for SARS-CoV-2 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
 ## Compute Resources
-### Asia
+### Cloud
+Azure
+Google Cloud
+ReScale
+TGen
+Oracle Cloud
+Core Scientific
 
-### Europe
 
-### North America
+### HPC Centers
+NERSC
+EPCCed
+Pawsey - Australian efforts focus
+LNCC - Latin American efforts focus
 
+### People Expertise
+BioTeam
+
+### Academic Services
 #### [CyVerse](https://cyverse.org)
 
 CyVerse provides cyberinfrastructure tools and services for _free_ to researchers in the USA, there are some limitations on international users. Our extensible data science workbenches and data store can integrate and run your bioinformatics tools, image analyses, cloud services, APIs, and more. Resources are managed at University of Arizona and the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/), and Cold Spring Harbor Laboratory. Infrastructures are linked to the [NSF XSEDE](https://www.xsede.org/) framework, as well as the [OpenScienceGrid](https://opensciencegrid.org/) over Internet2.
@@ -27,5 +40,3 @@ CyVerse is funded by the National Science Foundation’s Directorate for Biologi
 - [Forms](https://user.cyverse.org/forms) for additional data storage, computational expertise, and extended resource assistance.
 - [Educational Resources](https://learning.cyverse.org/en/latest/)
 
-
-### Latin America
