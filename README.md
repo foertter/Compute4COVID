@@ -17,9 +17,7 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 
 ## Compute Resources
 ### Cloud
-* Azure
-* Google Cloud
-* ReScale
+* [ReScale, Google, Azure](https://www.prnewswire.com/news-releases/rescale-partners-with-google-cloud-and-microsoft-azure-to-accelerate-the-race-for-covid-19-vaccine-with-cloud-supercomputers-for-researchers-301027160.html)"Those working on coronavirus vaccines and testing who would benefit from HPC in the cloud at no cost should contact support@techagainstcovid.com."
 * TGen
 * Oracle Cloud
 * Core Scientific
