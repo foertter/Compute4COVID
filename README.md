@@ -9,8 +9,11 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 ## Software
 * CDCD Repository of sequencing resources for SARS-CoV-2 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
+## Data
+* [Globus](https://www.globus.org/covid-19) - Effective immediately we are offering access to all Globus features at no cost to any institution engaged in COVID-19 research.
+
 ## People Expertise
-* BioTeam
+* [BioTeam](mailto:coronavirus@bioteam.net) - Any researchers struggling with issues related to strategic solutions development, high-speed data movement, HPC, data optimization, cloud computing, optimizing workflows and pipelines, data visualization, or complex data management with respect to COVID-19 research, please contact BioTeam for more information at coronavirus@bioteam.net. 
 
 ## Compute Resources
 ### Cloud
@@ -20,6 +23,7 @@ Efforts can include bioinformatics, medical imaging research, NLP, drug discover
 * TGen
 * Oracle Cloud
 * Core Scientific
+* [Terra] (https://support.terra.bio/hc/en-us/articles/360041068771) " Terra team and our scientific collaborators are working quickly to make data and tools for COVID-19 analysis available in Terra as quickly as possible. We will maintain this article in the support center as a landing page for COVID-19-related public workspaces as well as the educational materials to help you learn how to use them"
 
 ### HPC Centers
 * NERSC
